@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-I am PhD studennt at Karolinska Institutet
-I am working with single-cell and spatial transcriptomics data and my main interests are in the areas of immunology and oncology
+ I am PhD studennt at Karolinska Institutet
+
+I am working with single-cell and spatial transcriptomics data
+⚡ My main interests are in the areas of immunology and oncology
 
 
 <!--
