@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am PhD studennt at Karolinska Institutet
+I am working with single-cell and spatial transcriptomics data and my main interests are in the areas of immunology and oncology
+
+
 <!--
 **gurylevamv/gurylevamv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
