@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 I am PhD student at Karolinska Institutet
 </br> 
 </br>I am working with single-cell and spatial transcriptomics data
