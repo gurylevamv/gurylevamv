@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am PhD studennt at Karolinska Institutet
+I am PhD student at Karolinska Institutet
 </br> 
 </br>I am working with single-cell and spatial transcriptomics data
 </br>⚡ My main interests are immunology and oncology
